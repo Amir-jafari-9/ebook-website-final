@@ -15,3 +15,15 @@
     "sass": "^1.62.0"
   }
 }
+ {
+  "name": "your-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Build script placeholder'"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+    
+  }
+}
